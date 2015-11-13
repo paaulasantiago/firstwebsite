@@ -1,14 +1,51 @@
-<header{
-	border-color: #00FF99;
+html, body{
+	font-family: fantasy;
+    margin: 0px}
+ 
+ header{
+	background-color: #339966;
 	padding: 40px;
 	text-align: center;
 }
+.content{
+	max-width: 900px;
+	margin: 0, auto;
+	padding: 0 20px;
+}
+img.big-image{
+	max-width: 100%;
+}
+p.caption{
+	font-size: 16px;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{color: blue;
+text-decoration: none; }
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #666666;
+	color: white;
+}
+
+ul{text-align: center;}
+}
+
 h1{
 	font-size: 90px;
 	color: white;
 }
 header img{
-	border-radius: 150px;
+	border-radius: 174px;
+	border:10px solid #b3b3b3;
 }
 /*<header>
 	    <img src="img/profile.jpg">
