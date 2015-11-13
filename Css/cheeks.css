@@ -11,6 +11,7 @@ html, body{
 	max-width: 900px;
 	margin: 0, auto;
 	padding: 0 20px;
+	background-color: #2eb8b8;
 }
 img.big-image{
 	max-width: 100%;
@@ -43,6 +44,7 @@ h1{
 	font-size: 90px;
 	color: white;
 }
+
 header img{
 	border-radius: 174px;
 	border:10px solid #b3b3b3;
